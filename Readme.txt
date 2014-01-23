@@ -1,13 +1,4 @@
 This is readme.
 New change.
 
-
-
-
-
-
-
-
-
-
-sdfsdfsffasfff
+//TODO Test for CodeNotes.
